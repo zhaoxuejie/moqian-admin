@@ -44,3 +44,22 @@ moqian-admin基础权限后台管理系统
 密码：f123456
 
 ## 效果预览
+#### 首页
+
+![](image/index.png)
+
+#### 用户管理
+
+![](image/user.png)
+#### 角色管理
+
+![](image/role.png)
+#### 权限管理
+
+![](image/prem.png)
+#### 菜单管理
+
+![](image/menu.png)
+#### 日志管理
+
+![](image/log.png)
