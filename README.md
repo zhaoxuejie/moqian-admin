@@ -46,20 +46,20 @@ moqian-admin基础权限后台管理系统
 ## 效果预览
 #### 首页
 
-![](./extra/images/index.png)
+![](./resources/extra/images/index.png)
 
 #### 用户管理
 
-![](./extra/images/user.png)
+![](./resources/extra/images/user.png)
 #### 角色管理
 
-![](./extra/images/role.png)
+![](./resources/extra/images/role.png)
 #### 权限管理
 
-![](./extra/images/prem.png)
+![](./resources/extra/images/prem.png)
 #### 菜单管理
 
-![](./extra/images/menu.png)
+![](./resources/extra/images/menu.png)
 #### 日志管理
 
-![](./extra/images/log.png)
+![](./resources/extra/images/log.png)
